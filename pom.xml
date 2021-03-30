@@ -7,7 +7,7 @@
   <groupId>com.qlsofti</groupId>
   <artifactId>noise-monitor-sys</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
 
 
   <name>noise-monitor-sys Maven Webapp</name>
